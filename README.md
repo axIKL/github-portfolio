@@ -1,2 +1,0 @@
-# github-portfolio
-mi portafolio
